@@ -1,7 +1,5 @@
 package main
 
-syntaxerror
-
 import (
 	"io"
 	"net/http"
